@@ -30,6 +30,8 @@ The SCSI emulation code is still shakey for tapes, however.
 
 SunOS 2.0 will boot multiuser and works as you'd expect.
 
+You must uncompress: my-sun2-s2.0-disk.zip in media/disk before starting ./run.sh!
+
 ![Bild](https://github.com/petersieg/emulator-sun2-old/blob/main/sun2.png)
 
 Disclaimer:
