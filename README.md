@@ -3,9 +3,11 @@ Emulator for Sun-2 workstation
 
 This is the work of: Brad Parker <brad@heeltoe.com>
 
-This is the old release using SDL1 and no 3c400 BPF code found with wayback machineat:
+This is the old release using SDL1 and no 3c400 BPF code found with wayback machine at:
 
+Newer version using SDL2 and 3c400 BPF code can be found here:
 
+https://github.com/lisper/emulator-sun-2
 
 This is a emulator for the Sun Sun-2 Workstation.  It's designed to
 boot SunOS and emulate the display and keyboard found on an original
