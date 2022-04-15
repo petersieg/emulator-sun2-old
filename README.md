@@ -30,7 +30,7 @@ The SCSI emulation code is still shakey for tapes, however.
 
 SunOS 2.0 will boot multiuser and works as you'd expect.
 
-![Bild](https://github.com/petersieg/tme/blob/master/tme-sun3-boot.png)
+![Bild](https://github.com/petersieg/emulator-sun2-old/blob/main/sun2.png)
 
 Disclaimer:
 
