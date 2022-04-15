@@ -97,7 +97,7 @@ void sdl_write(unsigned int offset, int size, unsigned value)
 #ifdef __linux__
 //  accumulate_update(h, v, 32, 1);
   // for some reason this slows down mac os with SDL 1.2
-  SDL_UpdateRect(screen, h, v, size*8, 1);
+  // SDL_UpdateRect(screen, h, v, size*8, 1);
 #endif
 }
 
