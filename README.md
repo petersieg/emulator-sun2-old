@@ -5,6 +5,10 @@ This is the work of: Brad Parker <brad@heeltoe.com>
 
 This is the old release using SDL1 and no 3c400 BPF code found with wayback machine at:
 
+https://web.archive.org/web/20200218020012/https://github.com/lisper/emulator-sun-2
+
+https://codeload.github.com/lisper/emulator-sun-2/zip/master
+
 Newer version using SDL2 and 3c400 BPF code can be found here:
 
 https://github.com/lisper/emulator-sun-2
